@@ -1,5 +1,123 @@
 # Changelog
 
+## [1.187.1](https://github.com/MetaCubeX/metacubexd/compare/v1.187.0...v1.187.1) (2025-05-13)
+
+
+### Bug Fixes
+
+* closes [#1455](https://github.com/MetaCubeX/metacubexd/issues/1455) ([5a0b25d](https://github.com/MetaCubeX/metacubexd/commit/5a0b25d1c8b6deb713295aa5951b1e5cc5102351))
+
+## [1.187.0](https://github.com/MetaCubeX/metacubexd/compare/v1.186.1...v1.187.0) (2025-05-11)
+
+
+### Features
+
+* add new flow chart to overview page ([080560e](https://github.com/MetaCubeX/metacubexd/commit/080560e2a54121b27d66986413a9b0a66d33f1a8))
+
+## [1.186.1](https://github.com/MetaCubeX/metacubexd/compare/v1.186.0...v1.186.1) (2025-03-15)
+
+
+### Bug Fixes
+
+* **overview:** update stats component background and change chart type for better visual clarity ([dc1df6c](https://github.com/MetaCubeX/metacubexd/commit/dc1df6c382346e90d3657dfc1e953a5caa40aa41))
+
+## [1.186.0](https://github.com/MetaCubeX/metacubexd/compare/v1.185.0...v1.186.0) (2025-03-15)
+
+
+### Features
+
+* **proxies:** restructure layout of ProxyNode display for improved readability ([9c0da7a](https://github.com/MetaCubeX/metacubexd/commit/9c0da7a3897723d4de9d05867cf2d07a81481115))
+
+## [1.185.0](https://github.com/MetaCubeX/metacubexd/compare/v1.184.0...v1.185.0) (2025-03-15)
+
+
+### Features
+
+* **proxy-node:** update ProxyNodeCard styling and structure for improved layout and clarity ([8c5d184](https://github.com/MetaCubeX/metacubexd/commit/8c5d1845a7f5e780014f2f8288f6e5602687225a))
+
+## [1.184.0](https://github.com/MetaCubeX/metacubexd/compare/v1.183.0...v1.184.0) (2025-03-15)
+
+
+### Features
+
+* **latency:** enhance loading state with proxy latency updates ([69015f1](https://github.com/MetaCubeX/metacubexd/commit/69015f1187fc63fc28a550569eb9f3746a4d846c))
+* **proxy-node:** add UDP indicator and improve special types display ([cae651f](https://github.com/MetaCubeX/metacubexd/commit/cae651fa1cb15a0d620503741039b7a9f49f486b))
+
+## [1.183.0](https://github.com/MetaCubeX/metacubexd/compare/v1.182.0...v1.183.0) (2025-03-15)
+
+
+### Features
+
+* **versions:** update Tooltip.Trigger classes for better styling consistency ([9ad414c](https://github.com/MetaCubeX/metacubexd/commit/9ad414c46baf5755aa26bbe36000b61266945879))
+
+## [1.182.0](https://github.com/MetaCubeX/metacubexd/compare/v1.181.2...v1.182.0) (2025-03-15)
+
+
+### Features
+
+* **versions:** enable force update by default, closes [#1376](https://github.com/MetaCubeX/metacubexd/issues/1376) ([fd11412](https://github.com/MetaCubeX/metacubexd/commit/fd114127d62556278825d6837585c49ef6e07f80))
+
+
+### Bug Fixes
+
+* **versions:** prevent update trigger during ongoing update process ([ed55418](https://github.com/MetaCubeX/metacubexd/commit/ed554188bd75eb86baf2e6f22c5d4c66097946f7))
+
+## [1.181.2](https://github.com/MetaCubeX/metacubexd/compare/v1.181.1...v1.181.2) (2025-03-14)
+
+
+### Bug Fixes
+
+* **versions:** reload page after successful update for frontend and backend ([edf0d47](https://github.com/MetaCubeX/metacubexd/commit/edf0d47eb55f34df4dfe2979f28a5d1c1b421e4c))
+
+## [1.181.1](https://github.com/MetaCubeX/metacubexd/compare/v1.181.0...v1.181.1) (2025-03-14)
+
+
+### Bug Fixes
+
+* **versions:** disable update when none available or during update process ([e050d07](https://github.com/MetaCubeX/metacubexd/commit/e050d07de4fac94a6c695f660f9edeb7fc043a3c))
+
+## [1.181.0](https://github.com/MetaCubeX/metacubexd/compare/v1.180.0...v1.181.0) (2025-03-14)
+
+
+### Features
+
+* add changelog component and update version handling ([bf7c535](https://github.com/MetaCubeX/metacubexd/commit/bf7c53550e5e305f104b92d542b3755c33da8c4f))
+
+## [1.180.0](https://github.com/MetaCubeX/metacubexd/compare/v1.179.0...v1.180.0) (2025-03-12)
+
+
+### Features
+
+* add custom font theme variables for Twemoji and system fonts ([af8b3e2](https://github.com/MetaCubeX/metacubexd/commit/af8b3e2f7003e9831aa3c8a941f5bd5bb8fefc41))
+
+## [1.179.0](https://github.com/MetaCubeX/metacubexd/compare/v1.178.0...v1.179.0) (2025-03-11)
+
+
+### Features
+
+* enhance ProxyNodeCard badge opacity and font weight ([3fdf74d](https://github.com/MetaCubeX/metacubexd/commit/3fdf74d57a6259237ad482b1c4b5ca85a9762ac1)), closes [#1361](https://github.com/MetaCubeX/metacubexd/issues/1361)
+
+## [1.178.0](https://github.com/MetaCubeX/metacubexd/compare/v1.177.1...v1.178.0) (2025-03-11)
+
+
+### Features
+
+* update ProxyNodeCard badge styling ([e44e190](https://github.com/MetaCubeX/metacubexd/commit/e44e190aaf77d6247289285600b04860ed7d72b3))
+
+## [1.177.1](https://github.com/MetaCubeX/metacubexd/compare/v1.177.0...v1.177.1) (2025-03-10)
+
+
+### Bug Fixes
+
+* bg color ([#1355](https://github.com/MetaCubeX/metacubexd/issues/1355)) ([6c84d16](https://github.com/MetaCubeX/metacubexd/commit/6c84d16966ae265b4410b7117dab867062da5ffa))
+
+## [1.177.0](https://github.com/MetaCubeX/metacubexd/compare/v1.176.2...v1.177.0) (2025-03-07)
+
+
+### Features
+
+* set default DNS query target same as the placeholder ([#1346](https://github.com/MetaCubeX/metacubexd/issues/1346)) ([9874c74](https://github.com/MetaCubeX/metacubexd/commit/9874c7429a01cf0701a8894bc15c22d97bebb549))
+
 ## [1.176.2](https://github.com/MetaCubeX/metacubexd/compare/v1.176.1...v1.176.2) (2025-01-23)
 
 
