@@ -1,5 +1,66 @@
 # Changelog
 
+## [1.192.0](https://github.com/MetaCubeX/metacubexd/compare/v1.191.0...v1.192.0) (2025-08-24)
+
+
+### Features
+
+* verify API endpoint with `/version` ([#1568](https://github.com/MetaCubeX/metacubexd/issues/1568)) ([#1569](https://github.com/MetaCubeX/metacubexd/issues/1569)) ([01e130b](https://github.com/MetaCubeX/metacubexd/commit/01e130bf2ac5708c28a0c01a9287bd53addb9a08))
+
+## [1.191.0](https://github.com/MetaCubeX/metacubexd/compare/v1.190.1...v1.191.0) (2025-08-22)
+
+
+### Features
+
+* format IPv6 and adjust style ([#1562](https://github.com/MetaCubeX/metacubexd/issues/1562)) ([0c52c30](https://github.com/MetaCubeX/metacubexd/commit/0c52c30efdd7240a86267592c5e691fa23484671))
+
+## [1.190.1](https://github.com/MetaCubeX/metacubexd/compare/v1.190.0...v1.190.1) (2025-08-15)
+
+
+### Bug Fixes
+
+* Twemoji does not work on iOS ([#1552](https://github.com/MetaCubeX/metacubexd/issues/1552)) ([c5eb4c0](https://github.com/MetaCubeX/metacubexd/commit/c5eb4c046f58cc81867af5cb0b56b82c80ab9543))
+
+## [1.190.0](https://github.com/MetaCubeX/metacubexd/compare/v1.189.1...v1.190.0) (2025-08-12)
+
+
+### Features
+
+* font switching feature and use the Twemoji font that only includes flags ([#1547](https://github.com/MetaCubeX/metacubexd/issues/1547)) ([aab2d5e](https://github.com/MetaCubeX/metacubexd/commit/aab2d5e620e36db5236b93544ae5be32b9cefbae))
+
+## [1.189.1](https://github.com/MetaCubeX/metacubexd/compare/v1.189.0...v1.189.1) (2025-08-08)
+
+
+### Bug Fixes
+
+* [#1504](https://github.com/MetaCubeX/metacubexd/issues/1504) [#1381](https://github.com/MetaCubeX/metacubexd/issues/1381) [#1428](https://github.com/MetaCubeX/metacubexd/issues/1428) ([#1540](https://github.com/MetaCubeX/metacubexd/issues/1540)) ([c40b139](https://github.com/MetaCubeX/metacubexd/commit/c40b139cda0ca546ddaa8509101c519377bf9529))
+
+## [1.189.0](https://github.com/MetaCubeX/metacubexd/compare/v1.188.1...v1.189.0) (2025-08-05)
+
+
+### Features
+
+* dns query supports more record types ([#1532](https://github.com/MetaCubeX/metacubexd/issues/1532)) ([4ec76c7](https://github.com/MetaCubeX/metacubexd/commit/4ec76c7be214d4f90a32af5e8af93ef73fe774d0))
+
+## [1.188.1](https://github.com/MetaCubeX/metacubexd/compare/v1.188.0...v1.188.1) (2025-07-18)
+
+
+### Bug Fixes
+
+* add missing token for attaching GitHub release artifacts ([f1525f6](https://github.com/MetaCubeX/metacubexd/commit/f1525f67a565fd00202d8baae351abe67b36d085))
+
+## [1.188.0](https://github.com/MetaCubeX/metacubexd/compare/v1.187.1...v1.188.0) (2025-07-18)
+
+
+### Features
+
+* update CI token, trigger new release ([7c35df9](https://github.com/MetaCubeX/metacubexd/commit/7c35df9bb8ec2baf1fb41c5f16c74528b748048c))
+
+
+### Bug Fixes
+
+* active menu item ([#1523](https://github.com/MetaCubeX/metacubexd/issues/1523)) ([d4398f1](https://github.com/MetaCubeX/metacubexd/commit/d4398f16a54854c4e6169eec10357546208e9d16))
+
 ## [1.187.1](https://github.com/MetaCubeX/metacubexd/compare/v1.187.0...v1.187.1) (2025-05-13)
 
 
